@@ -1,2 +1,2 @@
-# This-likes-to-bounce
-HI
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
